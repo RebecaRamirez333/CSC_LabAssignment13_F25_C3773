@@ -10,4 +10,4 @@ class House:
     def __init__(self, owner, address):
         self.size = 2500
         self.owner = owner
-        self.address = address
+        self.address = address 
